@@ -1,4 +1,4 @@
-# Adversarial Face Recognition
+# A security evaluation of a Deep-Learning based face identification system. 
 
 ## Executive Summary
 An access control system based on face identification was created and evaluated. 
